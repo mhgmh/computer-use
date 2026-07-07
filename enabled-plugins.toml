@@ -1,0 +1,5 @@
+# 由 Codex 备份工具生成：仅记录插件启用状态，不含任何敏感配置
+# 还原时会把这些插件在新机器的 config.toml 里标记为 enabled
+
+[plugins."computer-use@openai-bundled"]
+enabled = true
